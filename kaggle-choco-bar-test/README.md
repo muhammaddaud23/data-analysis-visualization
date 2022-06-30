@@ -1,0 +1,2 @@
+## Kaggle Chocolate Bar Rating t-test and ANOVA
+In this notebook, I am going to analyze [Kaggle-Chocolate Bar Ratings](https://www.kaggle.com/datasets/rtatman/chocolate-bar-ratings). We are going to see the best producer of chocolate bar and also the origin of cocoa that make the best chocolate bar. After that, we are going to do t-test and analysis of variance to some groups of company and country to see if we can get some useful information. Although, we have limited sample data
